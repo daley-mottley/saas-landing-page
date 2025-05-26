@@ -1,5 +1,5 @@
 
-# SaaS Landing Page - High Converting React Application
+# SaaS Landing Page
 
 ## Project Overview
 A modern, high-converting SaaS landing page built with React, TypeScript, and Tailwind CSS. Features smooth animations, responsive design, and conversion-optimized components.
