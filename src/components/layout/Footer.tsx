@@ -168,7 +168,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 pt-8 flex flex-col md:flex-row justify-between items-center">
           <div className="text-gray-400 text-sm mb-4 md:mb-0">
-            © 2024 SaaSFlow. All rights reserved.
+            © 2025 SaaSFlow. All rights reserved.
           </div>
           <div className="flex items-center space-x-6 text-sm text-gray-400">
             <span className="flex items-center">
