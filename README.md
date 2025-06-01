@@ -90,4 +90,30 @@ For issues or questions:
 
 ---
 
-**Note**: This is a high-priority project. Please maintain detailed documentation in the `project-plan/` directory for effective team collaboration.
+## Contributions 🧑‍🔧👷‍♀️🏗️🏢
+
+Contributions are welcome! It only takes five (5) steps!
+
+To contribute:
+
+1) Fork the repository.
+
+2) Create a new branch: `git checkout -b my-feature-branch`.
+
+3) Make your changes and commit them: `git commit -m 'Add some feature'`.
+
+4) Push to the branch: `git push origin my-feature-branch`.
+
+5) Open a pull request.
+
+<p align="center" ><strong><em>Please read our <a href="https://github.com/daley-mottley/saas-boilerplate-template/blob/main/CONTRIBUTION.md" >Contributing Guidelines</a> to get started!</em></strong> 🚀</p>
+
+**Note**: Please maintain detailed documentation in the `project-plan/` directory for effective team collaboration.
+
+<p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
+<hr>
+<h2 align="center"> 🌎 Let's Stay Connected 🫸🫷 </h2>
+
+<p align="center"> If you like this project and would like to see more features or show your support.</p>
+<p align="center"> Feel free to reach out to the developer(s) and give this project a ⭐!</p>
+
