@@ -88,8 +88,6 @@ For issues or questions:
 2. Review `project-plan/TASKS.md` for known issues
 3. Add new issues to the logs with proper documentation
 
----
-
 ## Contributions 🧑‍🔧👷‍♀️🏗️🏢
 
 Contributions are welcome! It only takes five (5) steps!
@@ -106,9 +104,9 @@ To contribute:
 
 5) Open a pull request.
 
-<p align="center" ><strong><em>Please read our <a href="https://github.com/daley-mottley/saas-boilerplate-template/blob/main/CONTRIBUTION.md" >Contributing Guidelines</a> to get started!</em></strong> 🚀</p>
-
 **Note**: Please maintain detailed documentation in the `project-plan/` directory for effective team collaboration.
+
+<p align="center" ><strong><em>Please read our <a href="https://github.com/daley-mottley/saas-boilerplate-template/blob/main/CONTRIBUTION.md" >Contributing Guidelines</a> to get started!</em></strong> 🚀</p>
 
 <p align="center">🫶 <em>Thank you for your support! </em>🙌 </p>
 <hr>
